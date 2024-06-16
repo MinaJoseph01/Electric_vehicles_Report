@@ -1,5 +1,8 @@
 # Electric_vehicles_Report
 
+![VEHICLES](https://github.com/MinaJoseph01/Electric_vehicles_Repot/assets/142174893/28f5415f-7b47-4092-97d6-2c17bbb24816)
+
+
 ## Overview
 
 Embark on a journey through the dynamic landscape of electric vehicles (EVs) with our comprehensive market analysis project. We delve into the heart of EV technology, exploring both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) to provide a holistic view of the industry's evolution.
